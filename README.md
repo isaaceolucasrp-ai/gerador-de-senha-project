@@ -1,1 +1,1 @@
-# gerador-de-senha-project
+The password generator is when you click on "generate," it creates a password, and if you are logging into a website and don't know the password, you can use the password you generated, which should work.
